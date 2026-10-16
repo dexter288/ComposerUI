@@ -1,0 +1,53 @@
+[repositories.packagist.org.type] composer
+[repositories.packagist.org.url] https://repo.packagist.org
+[process-timeout] 300
+[use-include-path] false
+[allow-plugins.pestphp/pest-plugin] true
+[allow-plugins.php-http/discovery] true
+[use-parent-dir] prompt
+[preferred-install] dist
+[audit.abandoned] fail
+[policy] true
+[notify-on-install] true
+[github-protocols] [https, ssh]
+[gitlab-protocol] 
+[vendor-dir] vendor (/Users/nonofo/Documents/GitHub/mp-solutions/vendor)
+[bin-dir] {$vendor-dir}/bin (/Users/nonofo/Documents/GitHub/mp-solutions/vendor/bin)
+[cache-dir] /Users/nonofo/Library/Caches/composer
+[data-dir] /Users/nonofo/.composer
+[cache-files-dir] {$cache-dir}/files (/Users/nonofo/Library/Caches/composer/files)
+[cache-repo-dir] {$cache-dir}/repo (/Users/nonofo/Library/Caches/composer/repo)
+[cache-vcs-dir] {$cache-dir}/vcs (/Users/nonofo/Library/Caches/composer/vcs)
+[cache-ttl] 15552000
+[cache-files-ttl] 15552000
+[cache-files-maxsize] 300MiB (314572800)
+[cache-read-only] false
+[bin-compat] auto
+[discard-changes] false
+[autoloader-suffix] 
+[sort-packages] true
+[optimize-autoloader] true
+[classmap-authoritative] false
+[apcu-autoloader] false
+[prepend-autoloader] true
+[update-with-minimal-changes] false
+[github-domains] [github.com]
+[bitbucket-expose-hostname] true
+[disable-tls] false
+[secure-http] true
+[cafile] 
+[capath] 
+[github-expose-hostname] true
+[gitlab-domains] [gitlab.com]
+[store-auths] prompt
+[archive-format] tar
+[archive-dir] .
+[htaccess-protect] true
+[use-github-api] true
+[lock] true
+[platform-check] php-only
+[bump-after-update] false
+[allow-missing-requirements] false
+[forgejo-domains] [codeberg.org]
+[source-fallback] false
+[home] /Users/nonofo/.composer

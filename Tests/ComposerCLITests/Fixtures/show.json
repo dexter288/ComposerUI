@@ -1,0 +1,1390 @@
+{
+    "installed": [
+        {
+            "name": "barryvdh/laravel-dompdf",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/barryvdh/laravel-dompdf/tree/v3.1.2",
+            "version": "v3.1.2",
+            "description": "A DOMPDF Wrapper for Laravel",
+            "abandoned": false
+        },
+        {
+            "name": "brick/math",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/brick/math/tree/0.14.8",
+            "version": "0.14.8",
+            "description": "Arbitrary-precision arithmetic library",
+            "abandoned": false
+        },
+        {
+            "name": "carbonphp/carbon-doctrine-types",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/CarbonPHP/carbon-doctrine-types/tree/3.2.0",
+            "version": "3.2.0",
+            "description": "Types to use Carbon in Doctrine",
+            "abandoned": false
+        },
+        {
+            "name": "chillerlan/php-qrcode",
+            "direct-dependency": true,
+            "homepage": "https://github.com/chillerlan/php-qrcode",
+            "source": "https://github.com/chillerlan/php-qrcode",
+            "version": "6.0.1",
+            "description": "A QR Code generator and reader with a user-friendly API. PHP 8.2+",
+            "abandoned": false
+        },
+        {
+            "name": "chillerlan/php-settings-container",
+            "direct-dependency": false,
+            "homepage": "https://github.com/chillerlan/php-settings-container",
+            "source": "https://github.com/chillerlan/php-settings-container",
+            "version": "3.3.0",
+            "description": "A container class for immutable settings objects. Not a DI container.",
+            "abandoned": false
+        },
+        {
+            "name": "clue/redis-protocol",
+            "direct-dependency": false,
+            "homepage": "https://github.com/clue/redis-protocol",
+            "source": "https://github.com/clue/redis-protocol/tree/v0.3.2",
+            "version": "v0.3.2",
+            "description": "A streaming Redis protocol (RESP) parser and serializer written in pure PHP.",
+            "abandoned": false
+        },
+        {
+            "name": "clue/redis-react",
+            "direct-dependency": false,
+            "homepage": "https://github.com/clue/reactphp-redis",
+            "source": "https://github.com/clue/reactphp-redis/tree/v2.8.0",
+            "version": "v2.8.0",
+            "description": "Async Redis client implementation, built on top of ReactPHP.",
+            "abandoned": false
+        },
+        {
+            "name": "composer/pcre",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/composer/pcre/tree/3.3.2",
+            "version": "3.3.2",
+            "description": "PCRE wrapping library that offers type-safe preg_* replacements.",
+            "abandoned": false
+        },
+        {
+            "name": "composer/semver",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/composer/semver/tree/3.4.4",
+            "version": "3.4.4",
+            "description": "Semver library that offers utilities, version constraint parsing and validation.",
+            "abandoned": false
+        },
+        {
+            "name": "dflydev/dot-access-data",
+            "direct-dependency": false,
+            "homepage": "https://github.com/dflydev/dflydev-dot-access-data",
+            "source": "https://github.com/dflydev/dflydev-dot-access-data/tree/v3.0.3",
+            "version": "v3.0.3",
+            "description": "Given a deep data structure, access data by dot notation.",
+            "abandoned": false
+        },
+        {
+            "name": "doctrine/inflector",
+            "direct-dependency": false,
+            "homepage": "https://www.doctrine-project.org/projects/inflector.html",
+            "source": "https://github.com/doctrine/inflector/tree/2.1.0",
+            "version": "2.1.0",
+            "description": "PHP Doctrine Inflector is a small library that can perform string manipulations with regard to upper/lowercase and singular/plural forms of words.",
+            "abandoned": false
+        },
+        {
+            "name": "doctrine/lexer",
+            "direct-dependency": false,
+            "homepage": "https://www.doctrine-project.org/projects/lexer.html",
+            "source": "https://github.com/doctrine/lexer/tree/3.0.1",
+            "version": "3.0.1",
+            "description": "PHP Doctrine Lexer parser library that can be used in Top-Down, Recursive Descent Parsers.",
+            "abandoned": false
+        },
+        {
+            "name": "dompdf/dompdf",
+            "direct-dependency": false,
+            "homepage": "https://github.com/dompdf/dompdf",
+            "source": "https://github.com/dompdf/dompdf/tree/v3.1.5",
+            "version": "v3.1.5",
+            "description": "DOMPDF is a CSS 2.1 compliant HTML to PDF converter",
+            "abandoned": false
+        },
+        {
+            "name": "dompdf/php-font-lib",
+            "direct-dependency": false,
+            "homepage": "https://github.com/dompdf/php-font-lib",
+            "source": "https://github.com/dompdf/php-font-lib/tree/1.0.2",
+            "version": "1.0.2",
+            "description": "A library to read, parse, export and make subsets of different types of font files.",
+            "abandoned": false
+        },
+        {
+            "name": "dompdf/php-svg-lib",
+            "direct-dependency": false,
+            "homepage": "https://github.com/dompdf/php-svg-lib",
+            "source": "https://github.com/dompdf/php-svg-lib/tree/1.0.2",
+            "version": "1.0.2",
+            "description": "A library to read, parse and export to PDF SVG files.",
+            "abandoned": false
+        },
+        {
+            "name": "dragonmantank/cron-expression",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/dragonmantank/cron-expression/tree/v3.6.0",
+            "version": "v3.6.0",
+            "description": "CRON for PHP: Calculate the next or previous run date and determine if a CRON expression is due",
+            "abandoned": false
+        },
+        {
+            "name": "egulias/email-validator",
+            "direct-dependency": false,
+            "homepage": "https://github.com/egulias/EmailValidator",
+            "source": "https://github.com/egulias/EmailValidator/tree/4.0.4",
+            "version": "4.0.4",
+            "description": "A library for validating emails against several RFCs",
+            "abandoned": false
+        },
+        {
+            "name": "evenement/evenement",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/igorw/evenement/tree/v3.0.2",
+            "version": "v3.0.2",
+            "description": "Événement is a very simple event dispatching library for PHP",
+            "abandoned": false
+        },
+        {
+            "name": "ezyang/htmlpurifier",
+            "direct-dependency": false,
+            "homepage": "http://htmlpurifier.org/",
+            "source": "https://github.com/ezyang/htmlpurifier/tree/v4.19.0",
+            "version": "v4.19.0",
+            "description": "Standards compliant HTML filter written in PHP",
+            "abandoned": false
+        },
+        {
+            "name": "fakerphp/faker",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/FakerPHP/Faker/tree/v1.24.1",
+            "version": "v1.24.1",
+            "description": "Faker is a PHP library that generates fake data for you.",
+            "abandoned": false
+        },
+        {
+            "name": "filp/whoops",
+            "direct-dependency": false,
+            "homepage": "https://filp.github.io/whoops/",
+            "source": "https://github.com/filp/whoops/tree/2.18.4",
+            "version": "2.18.4",
+            "description": "php error handling for cool kids",
+            "abandoned": false
+        },
+        {
+            "name": "firebase/php-jwt",
+            "direct-dependency": true,
+            "homepage": "https://github.com/googleapis/php-jwt",
+            "source": "https://github.com/googleapis/php-jwt/tree/v7.1.0",
+            "version": "v7.1.0",
+            "description": "A simple library to encode and decode JSON Web Tokens (JWT) in PHP. Should conform to the current spec.",
+            "abandoned": false
+        },
+        {
+            "name": "fruitcake/php-cors",
+            "direct-dependency": false,
+            "homepage": "https://github.com/fruitcake/php-cors",
+            "source": "https://github.com/fruitcake/php-cors/tree/v1.4.0",
+            "version": "v1.4.0",
+            "description": "Cross-origin resource sharing library for the Symfony HttpFoundation",
+            "abandoned": false
+        },
+        {
+            "name": "graham-campbell/result-type",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/GrahamCampbell/Result-Type/tree/v1.1.4",
+            "version": "v1.1.4",
+            "description": "An Implementation Of The Result Type",
+            "abandoned": false
+        },
+        {
+            "name": "guzzlehttp/guzzle",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/guzzle/guzzle/tree/7.11.1",
+            "version": "7.11.1",
+            "description": "Guzzle is a PHP HTTP client library",
+            "abandoned": false
+        },
+        {
+            "name": "guzzlehttp/promises",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/guzzle/promises/tree/2.5.0",
+            "version": "2.5.0",
+            "description": "Guzzle promises library",
+            "abandoned": false
+        },
+        {
+            "name": "guzzlehttp/psr7",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/guzzle/psr7/tree/2.11.0",
+            "version": "2.11.0",
+            "description": "PSR-7 message implementation that also provides common utility methods",
+            "abandoned": false
+        },
+        {
+            "name": "guzzlehttp/uri-template",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/guzzle/uri-template/tree/v1.0.6",
+            "version": "v1.0.6",
+            "description": "A polyfill class for uri_template of PHP",
+            "abandoned": false
+        },
+        {
+            "name": "hamcrest/hamcrest-php",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/hamcrest/hamcrest-php/tree/v2.1.1",
+            "version": "v2.1.1",
+            "description": "This is the PHP port of Hamcrest Matchers",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/agent-detector",
+            "direct-dependency": false,
+            "homepage": "https://github.com/laravel/agent-detector",
+            "source": "https://github.com/laravel/agent-detector",
+            "version": "v2.0.2",
+            "description": "Detect if code is running in an AI agent or automated development environment",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/framework",
+            "direct-dependency": true,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/framework",
+            "version": "v13.14.0",
+            "description": "The Laravel Framework.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/pail",
+            "direct-dependency": true,
+            "homepage": "https://github.com/laravel/pail",
+            "source": "https://github.com/laravel/pail",
+            "version": "v1.2.7",
+            "description": "Easily delve into your Laravel application's log files directly from the command line.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/pao",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/laravel/pao",
+            "version": "v1.1.0",
+            "description": "Agent-optimized output for PHP testing tools",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/pint",
+            "direct-dependency": true,
+            "homepage": "https://laravel.com",
+            "source": "https://github.com/laravel/pint",
+            "version": "v1.29.1",
+            "description": "An opinionated code formatter for PHP.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/prompts",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/laravel/prompts/tree/v0.3.18",
+            "version": "v0.3.18",
+            "description": "Add beautiful and user-friendly forms to your command-line applications.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/reverb",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/laravel/reverb/tree/v1.10.2",
+            "version": "v1.10.2",
+            "description": "Laravel Reverb provides a real-time WebSocket communication backend for Laravel applications.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/sanctum",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/laravel/sanctum",
+            "version": "v4.3.3",
+            "description": "Laravel Sanctum provides a featherweight authentication system for SPAs and simple APIs.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/serializable-closure",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/laravel/serializable-closure",
+            "version": "v2.0.13",
+            "description": "Laravel Serializable Closure provides an easy and secure way to serialize closures in PHP.",
+            "abandoned": false
+        },
+        {
+            "name": "laravel/tinker",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/laravel/tinker/tree/v3.0.2",
+            "version": "v3.0.2",
+            "description": "Powerful REPL for the Laravel framework.",
+            "abandoned": false
+        },
+        {
+            "name": "league/commonmark",
+            "direct-dependency": false,
+            "homepage": "https://commonmark.thephpleague.com",
+            "source": "https://github.com/thephpleague/commonmark",
+            "version": "2.8.2",
+            "description": "Highly-extensible PHP Markdown parser which fully supports the CommonMark spec and GitHub-Flavored Markdown (GFM)",
+            "abandoned": false
+        },
+        {
+            "name": "league/config",
+            "direct-dependency": false,
+            "homepage": "https://config.thephpleague.com",
+            "source": "https://github.com/thephpleague/config",
+            "version": "v1.2.0",
+            "description": "Define configuration arrays with strict schemas and access values with dot notation",
+            "abandoned": false
+        },
+        {
+            "name": "league/flysystem",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/thephpleague/flysystem/tree/3.34.0",
+            "version": "3.34.0",
+            "description": "File storage abstraction for PHP",
+            "abandoned": false
+        },
+        {
+            "name": "league/flysystem-local",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/thephpleague/flysystem-local/tree/3.31.0",
+            "version": "3.31.0",
+            "description": "Local filesystem adapter for Flysystem.",
+            "abandoned": false
+        },
+        {
+            "name": "league/mime-type-detection",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/thephpleague/mime-type-detection/tree/1.16.0",
+            "version": "1.16.0",
+            "description": "Mime-type detection for Flysystem",
+            "abandoned": false
+        },
+        {
+            "name": "league/uri",
+            "direct-dependency": false,
+            "homepage": "https://uri.thephpleague.com",
+            "source": "https://github.com/thephpleague/uri/tree/7.8.1",
+            "version": "7.8.1",
+            "description": "URI manipulation library",
+            "abandoned": false
+        },
+        {
+            "name": "league/uri-interfaces",
+            "direct-dependency": false,
+            "homepage": "https://uri.thephpleague.com",
+            "source": "https://github.com/thephpleague/uri-interfaces/tree/7.8.1",
+            "version": "7.8.1",
+            "description": "Common tools for parsing and resolving RFC3987/RFC3986 URI",
+            "abandoned": false
+        },
+        {
+            "name": "livewire/livewire",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/livewire/livewire/tree/v4.4.4",
+            "version": "v4.4.4",
+            "description": "A front-end framework for Laravel.",
+            "abandoned": false
+        },
+        {
+            "name": "maatwebsite/excel",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/SpartnerNL/Laravel-Excel/tree/3.1.69",
+            "version": "3.1.69",
+            "description": "Supercharged Excel exports and imports in Laravel",
+            "abandoned": false
+        },
+        {
+            "name": "maennchen/zipstream-php",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/maennchen/ZipStream-PHP/tree/3.2.2",
+            "version": "3.2.2",
+            "description": "ZipStream is a library for dynamically streaming dynamic zip files from PHP without writing to the disk at all on the server.",
+            "abandoned": false
+        },
+        {
+            "name": "markbaker/complex",
+            "direct-dependency": false,
+            "homepage": "https://github.com/MarkBaker/PHPComplex",
+            "source": "https://github.com/MarkBaker/PHPComplex/tree/3.0.2",
+            "version": "3.0.2",
+            "description": "PHP Class for working with complex numbers",
+            "abandoned": false
+        },
+        {
+            "name": "markbaker/matrix",
+            "direct-dependency": false,
+            "homepage": "https://github.com/MarkBaker/PHPMatrix",
+            "source": "https://github.com/MarkBaker/PHPMatrix/tree/3.0.1",
+            "version": "3.0.1",
+            "description": "PHP Class for working with matrices",
+            "abandoned": false
+        },
+        {
+            "name": "masterminds/html5",
+            "direct-dependency": false,
+            "homepage": "http://masterminds.github.io/html5-php",
+            "source": "https://github.com/Masterminds/html5-php/tree/2.10.0",
+            "version": "2.10.0",
+            "description": "An HTML5 parser and serializer.",
+            "abandoned": false
+        },
+        {
+            "name": "mockery/mockery",
+            "direct-dependency": true,
+            "homepage": "https://github.com/mockery/mockery",
+            "source": "https://github.com/mockery/mockery",
+            "version": "1.6.12",
+            "description": "Mockery is a simple yet flexible PHP mock object framework",
+            "abandoned": false
+        },
+        {
+            "name": "monolog/monolog",
+            "direct-dependency": false,
+            "homepage": "https://github.com/Seldaek/monolog",
+            "source": "https://github.com/Seldaek/monolog/tree/3.10.0",
+            "version": "3.10.0",
+            "description": "Sends your logs to files, sockets, inboxes, databases and various web services",
+            "abandoned": false
+        },
+        {
+            "name": "myclabs/deep-copy",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/myclabs/DeepCopy/tree/1.13.4",
+            "version": "1.13.4",
+            "description": "Create deep copies (clones) of your objects",
+            "abandoned": false
+        },
+        {
+            "name": "nesbot/carbon",
+            "direct-dependency": false,
+            "homepage": "https://carbonphp.github.io/carbon/",
+            "source": "https://github.com/CarbonPHP/carbon",
+            "version": "3.11.4",
+            "description": "An API extension for DateTime that supports 281 different languages.",
+            "abandoned": false
+        },
+        {
+            "name": "nette/schema",
+            "direct-dependency": false,
+            "homepage": "https://nette.org",
+            "source": "https://github.com/nette/schema/tree/v1.3.5",
+            "version": "v1.3.5",
+            "description": "📐 Nette Schema: validating data structures against a given Schema.",
+            "abandoned": false
+        },
+        {
+            "name": "nette/utils",
+            "direct-dependency": false,
+            "homepage": "https://nette.org",
+            "source": "https://github.com/nette/utils/tree/v4.1.4",
+            "version": "v4.1.4",
+            "description": "🛠  Nette Utils: lightweight utilities for string & array manipulation, image handling, safe JSON encoding/decoding, validation, slug or strong password generating etc.",
+            "abandoned": false
+        },
+        {
+            "name": "nikic/php-parser",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/nikic/PHP-Parser/tree/v5.7.0",
+            "version": "v5.7.0",
+            "description": "A PHP parser written in PHP",
+            "abandoned": false
+        },
+        {
+            "name": "nunomaduro/collision",
+            "direct-dependency": true,
+            "homepage": null,
+            "source": "https://github.com/nunomaduro/collision",
+            "version": "v8.9.4",
+            "description": "Cli error handling for console/command-line PHP applications.",
+            "abandoned": false
+        },
+        {
+            "name": "nunomaduro/termwind",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/nunomaduro/termwind/tree/v2.4.0",
+            "version": "v2.4.0",
+            "description": "It's like Tailwind CSS, but for the console.",
+            "abandoned": false
+        },
+        {
+            "name": "opcodesio/log-viewer",
+            "direct-dependency": true,
+            "homepage": "https://github.com/opcodesio/log-viewer",
+            "source": "https://github.com/opcodesio/log-viewer/tree/v3.24.2",
+            "version": "v3.24.2",
+            "description": "Fast and easy-to-use log viewer for your Laravel application",
+            "abandoned": false
+        },
+        {
+            "name": "opcodesio/mail-parser",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/opcodesio/mail-parser/tree/v0.2.4",
+            "version": "v0.2.4",
+            "description": "Parse emails without the mailparse extension",
+            "abandoned": false
+        },
+        {
+            "name": "phar-io/manifest",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/phar-io/manifest/tree/2.0.4",
+            "version": "2.0.4",
+            "description": "Component for reading phar.io manifest information from a PHP Archive (PHAR)",
+            "abandoned": false
+        },
+        {
+            "name": "phar-io/version",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/phar-io/version/tree/3.2.1",
+            "version": "3.2.1",
+            "description": "Library for handling version information and constraints",
+            "abandoned": false
+        },
+        {
+            "name": "phpoffice/phpspreadsheet",
+            "direct-dependency": false,
+            "homepage": "https://github.com/PHPOffice/PhpSpreadsheet",
+            "source": "https://github.com/PHPOffice/PhpSpreadsheet/tree/1.30.5",
+            "version": "1.30.5",
+            "description": "PHPSpreadsheet - Read, Create and Write Spreadsheet documents in PHP - Spreadsheet engine",
+            "abandoned": false
+        },
+        {
+            "name": "phpoption/phpoption",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/schmittjoh/php-option/tree/1.9.5",
+            "version": "1.9.5",
+            "description": "Option Type for PHP",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/php-code-coverage",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/php-code-coverage",
+            "source": "https://github.com/sebastianbergmann/php-code-coverage/tree/12.5.7",
+            "version": "12.5.7",
+            "description": "Library that provides collection, processing, and rendering functionality for PHP code coverage information.",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/php-file-iterator",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/php-file-iterator/",
+            "source": "https://github.com/sebastianbergmann/php-file-iterator/tree/6.0.1",
+            "version": "6.0.1",
+            "description": "FilterIterator implementation that filters files based on a list of suffixes.",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/php-invoker",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/php-invoker/",
+            "source": "https://github.com/sebastianbergmann/php-invoker/tree/6.0.0",
+            "version": "6.0.0",
+            "description": "Invoke callables with a timeout",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/php-text-template",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/php-text-template/",
+            "source": "https://github.com/sebastianbergmann/php-text-template/tree/5.0.0",
+            "version": "5.0.0",
+            "description": "Simple template engine.",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/php-timer",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/php-timer/",
+            "source": "https://github.com/sebastianbergmann/php-timer/tree/8.0.0",
+            "version": "8.0.0",
+            "description": "Utility class for timing",
+            "abandoned": false
+        },
+        {
+            "name": "phpunit/phpunit",
+            "direct-dependency": true,
+            "homepage": "https://phpunit.de/",
+            "source": "https://github.com/sebastianbergmann/phpunit/tree/12.5.29",
+            "version": "12.5.29",
+            "description": "The PHP Unit Testing framework.",
+            "abandoned": false
+        },
+        {
+            "name": "psr/clock",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/clock",
+            "source": "https://github.com/php-fig/clock/tree/1.0.0",
+            "version": "1.0.0",
+            "description": "Common interface for reading the clock.",
+            "abandoned": false
+        },
+        {
+            "name": "psr/container",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/container",
+            "source": "https://github.com/php-fig/container/tree/2.0.2",
+            "version": "2.0.2",
+            "description": "Common Container Interface (PHP FIG PSR-11)",
+            "abandoned": false
+        },
+        {
+            "name": "psr/event-dispatcher",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/php-fig/event-dispatcher/tree/1.0.0",
+            "version": "1.0.0",
+            "description": "Standard interfaces for event handling.",
+            "abandoned": false
+        },
+        {
+            "name": "psr/http-client",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/http-client",
+            "source": "https://github.com/php-fig/http-client",
+            "version": "1.0.3",
+            "description": "Common interface for HTTP clients",
+            "abandoned": false
+        },
+        {
+            "name": "psr/http-factory",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/php-fig/http-factory",
+            "version": "1.1.0",
+            "description": "PSR-17: Common interfaces for PSR-7 HTTP message factories",
+            "abandoned": false
+        },
+        {
+            "name": "psr/http-message",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/http-message",
+            "source": "https://github.com/php-fig/http-message/tree/2.0",
+            "version": "2.0",
+            "description": "Common interface for HTTP messages",
+            "abandoned": false
+        },
+        {
+            "name": "psr/log",
+            "direct-dependency": false,
+            "homepage": "https://github.com/php-fig/log",
+            "source": "https://github.com/php-fig/log/tree/3.0.2",
+            "version": "3.0.2",
+            "description": "Common interface for logging libraries",
+            "abandoned": false
+        },
+        {
+            "name": "psr/simple-cache",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/php-fig/simple-cache/tree/3.0.0",
+            "version": "3.0.0",
+            "description": "Common interfaces for simple caching",
+            "abandoned": false
+        },
+        {
+            "name": "psy/psysh",
+            "direct-dependency": false,
+            "homepage": "https://psysh.org",
+            "source": "https://github.com/bobthecow/psysh/tree/v0.12.23",
+            "version": "v0.12.23",
+            "description": "An interactive shell for modern PHP.",
+            "abandoned": false
+        },
+        {
+            "name": "pusher/pusher-php-server",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/pusher/pusher-http-php/tree/7.2.8",
+            "version": "7.2.8",
+            "description": "Library for interacting with the Pusher REST API",
+            "abandoned": false
+        },
+        {
+            "name": "ralouphie/getallheaders",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/ralouphie/getallheaders/tree/develop",
+            "version": "3.0.3",
+            "description": "A polyfill for getallheaders.",
+            "abandoned": false
+        },
+        {
+            "name": "ramsey/collection",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/ramsey/collection/tree/2.1.1",
+            "version": "2.1.1",
+            "description": "A PHP library for representing and manipulating collections.",
+            "abandoned": false
+        },
+        {
+            "name": "ramsey/uuid",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/ramsey/uuid/tree/4.9.2",
+            "version": "4.9.2",
+            "description": "A PHP library for generating and working with universally unique identifiers (UUIDs).",
+            "abandoned": false
+        },
+        {
+            "name": "ratchet/rfc6455",
+            "direct-dependency": false,
+            "homepage": "http://socketo.me",
+            "source": "https://github.com/ratchetphp/RFC6455/tree/v0.4.1",
+            "version": "v0.4.1",
+            "description": "RFC6455 WebSocket protocol handler",
+            "abandoned": false
+        },
+        {
+            "name": "react/cache",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/cache/tree/v1.2.0",
+            "version": "v1.2.0",
+            "description": "Async, Promise-based cache interface for ReactPHP",
+            "abandoned": false
+        },
+        {
+            "name": "react/dns",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/dns/tree/v1.14.0",
+            "version": "v1.14.0",
+            "description": "Async DNS resolver for ReactPHP",
+            "abandoned": false
+        },
+        {
+            "name": "react/event-loop",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/event-loop/tree/v1.6.0",
+            "version": "v1.6.0",
+            "description": "ReactPHP's core reactor event loop that libraries can use for evented I/O.",
+            "abandoned": false
+        },
+        {
+            "name": "react/promise",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/promise/tree/v3.3.0",
+            "version": "v3.3.0",
+            "description": "A lightweight implementation of CommonJS Promises/A for PHP",
+            "abandoned": false
+        },
+        {
+            "name": "react/promise-timer",
+            "direct-dependency": false,
+            "homepage": "https://github.com/reactphp/promise-timer",
+            "source": "https://github.com/reactphp/promise-timer/tree/v1.11.0",
+            "version": "v1.11.0",
+            "description": "A trivial implementation of timeouts for Promises, built on top of ReactPHP.",
+            "abandoned": false
+        },
+        {
+            "name": "react/socket",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/socket/tree/v1.17.0",
+            "version": "v1.17.0",
+            "description": "Async, streaming plaintext TCP/IP and secure TLS socket server and client connections for ReactPHP",
+            "abandoned": false
+        },
+        {
+            "name": "react/stream",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/reactphp/stream/tree/v1.4.0",
+            "version": "v1.4.0",
+            "description": "Event-driven readable and writable streams for non-blocking I/O in ReactPHP",
+            "abandoned": false
+        },
+        {
+            "name": "sabberworm/php-css-parser",
+            "direct-dependency": false,
+            "homepage": "https://www.sabberworm.com/blog/2010/6/10/php-css-parser",
+            "source": "https://github.com/MyIntervals/PHP-CSS-Parser/tree/v9.3.0",
+            "version": "v9.3.0",
+            "description": "Parser for CSS Files written in PHP",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/cli-parser",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/cli-parser",
+            "source": "https://github.com/sebastianbergmann/cli-parser/tree/4.2.1",
+            "version": "4.2.1",
+            "description": "Library for parsing CLI options",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/comparator",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/comparator",
+            "source": "https://github.com/sebastianbergmann/comparator/tree/7.1.8",
+            "version": "7.1.8",
+            "description": "Provides the functionality to compare PHP values for equality",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/complexity",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/complexity",
+            "source": "https://github.com/sebastianbergmann/complexity/tree/5.0.0",
+            "version": "5.0.0",
+            "description": "Library for calculating the complexity of PHP code units",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/diff",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/diff",
+            "source": "https://github.com/sebastianbergmann/diff/tree/7.0.0",
+            "version": "7.0.0",
+            "description": "Diff implementation",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/environment",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/environment",
+            "source": "https://github.com/sebastianbergmann/environment/tree/8.1.2",
+            "version": "8.1.2",
+            "description": "Provides functionality to handle HHVM/PHP environments",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/exporter",
+            "direct-dependency": false,
+            "homepage": "https://www.github.com/sebastianbergmann/exporter",
+            "source": "https://github.com/sebastianbergmann/exporter/tree/7.0.3",
+            "version": "7.0.3",
+            "description": "Provides the functionality to export PHP variables for visualization",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/global-state",
+            "direct-dependency": false,
+            "homepage": "https://www.github.com/sebastianbergmann/global-state",
+            "source": "https://github.com/sebastianbergmann/global-state/tree/8.0.3",
+            "version": "8.0.3",
+            "description": "Snapshotting of global state",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/lines-of-code",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/lines-of-code",
+            "source": "https://github.com/sebastianbergmann/lines-of-code/tree/4.0.1",
+            "version": "4.0.1",
+            "description": "Library for counting the lines of code in PHP source code",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/object-enumerator",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/object-enumerator/",
+            "source": "https://github.com/sebastianbergmann/object-enumerator/tree/7.0.0",
+            "version": "7.0.0",
+            "description": "Traverses array structures and object graphs to enumerate all referenced objects",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/object-reflector",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/object-reflector/",
+            "source": "https://github.com/sebastianbergmann/object-reflector/tree/5.0.0",
+            "version": "5.0.0",
+            "description": "Allows reflection of object attributes, including inherited and non-public ones",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/recursion-context",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/recursion-context",
+            "source": "https://github.com/sebastianbergmann/recursion-context/tree/7.0.1",
+            "version": "7.0.1",
+            "description": "Provides functionality to recursively process PHP variables",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/type",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/type",
+            "source": "https://github.com/sebastianbergmann/type/tree/6.0.4",
+            "version": "6.0.4",
+            "description": "Collection of value objects that represent the types of the PHP type system",
+            "abandoned": false
+        },
+        {
+            "name": "sebastian/version",
+            "direct-dependency": false,
+            "homepage": "https://github.com/sebastianbergmann/version",
+            "source": "https://github.com/sebastianbergmann/version/tree/6.0.0",
+            "version": "6.0.0",
+            "description": "Library that helps with managing the version number of Git-hosted PHP projects",
+            "abandoned": false
+        },
+        {
+            "name": "smalot/pdfparser",
+            "direct-dependency": true,
+            "homepage": "https://www.pdfparser.org",
+            "source": "https://github.com/smalot/pdfparser/tree/v2.12.5",
+            "version": "v2.12.5",
+            "description": "Pdf parser library. Can read and extract information from pdf file.",
+            "abandoned": false
+        },
+        {
+            "name": "spatie/enum",
+            "direct-dependency": false,
+            "homepage": "https://github.com/spatie/enum",
+            "source": "https://github.com/spatie/enum",
+            "version": "3.13.0",
+            "description": "PHP Enums",
+            "abandoned": false
+        },
+        {
+            "name": "spatie/laravel-health",
+            "direct-dependency": true,
+            "homepage": "https://github.com/spatie/laravel-health",
+            "source": "https://github.com/spatie/laravel-health/tree/1.40.0",
+            "version": "1.40.0",
+            "description": "Monitor the health of a Laravel application",
+            "abandoned": false
+        },
+        {
+            "name": "spatie/laravel-package-tools",
+            "direct-dependency": false,
+            "homepage": "https://github.com/spatie/laravel-package-tools",
+            "source": "https://github.com/spatie/laravel-package-tools/tree/1.93.1",
+            "version": "1.93.1",
+            "description": "Tools for creating Laravel packages",
+            "abandoned": false
+        },
+        {
+            "name": "spatie/laravel-permission",
+            "direct-dependency": true,
+            "homepage": "https://github.com/spatie/laravel-permission",
+            "source": "https://github.com/spatie/laravel-permission/tree/8.0.0",
+            "version": "8.0.0",
+            "description": "Permission handling for Laravel 12 and up",
+            "abandoned": false
+        },
+        {
+            "name": "spatie/regex",
+            "direct-dependency": false,
+            "homepage": "https://github.com/spatie/regex",
+            "source": "https://github.com/spatie/regex/tree/3.1.1",
+            "version": "3.1.1",
+            "description": "A sane interface for php's built in preg_* functions",
+            "abandoned": false
+        },
+        {
+            "name": "staabm/side-effects-detector",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/staabm/side-effects-detector/tree/1.0.5",
+            "version": "1.0.5",
+            "description": "A static analysis tool to detect side effects in PHP code",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/clock",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/clock/tree/v7.4.8",
+            "version": "v7.4.8",
+            "description": "Decouples applications from the system clock",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/console",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/console/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Eases the creation of beautiful and testable command line interfaces",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/css-selector",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/css-selector/tree/v7.4.9",
+            "version": "v7.4.9",
+            "description": "Converts CSS selectors to XPath expressions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/deprecation-contracts",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/deprecation-contracts/tree/v3.7.0",
+            "version": "v3.7.0",
+            "description": "A generic function and convention to trigger deprecation notices",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/error-handler",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/error-handler/tree/v7.4.8",
+            "version": "v7.4.8",
+            "description": "Provides tools to manage errors and ease debugging PHP code",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/event-dispatcher",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/event-dispatcher/tree/v7.4.9",
+            "version": "v7.4.9",
+            "description": "Provides tools that allow your application components to communicate with each other by dispatching events and listening to them",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/event-dispatcher-contracts",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/event-dispatcher-contracts/tree/v3.7.0",
+            "version": "v3.7.0",
+            "description": "Generic abstractions related to dispatching event",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/finder",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/finder/tree/v7.4.8",
+            "version": "v7.4.8",
+            "description": "Finds files and directories via an intuitive fluent interface",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/html-sanitizer",
+            "direct-dependency": true,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/html-sanitizer/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Provides an object-oriented API to sanitize untrusted HTML input for safe insertion into a document's DOM.",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/http-foundation",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/http-foundation/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Defines an object-oriented layer for the HTTP specification",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/http-kernel",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/http-kernel/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Provides a structured process for converting a Request into a Response",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/mailer",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/mailer/tree/v7.4.12",
+            "version": "v7.4.12",
+            "description": "Helps sending emails",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/mime",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/mime/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Allows manipulating MIME messages",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-ctype",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-ctype/tree/v1.37.0",
+            "version": "v1.37.0",
+            "description": "Symfony polyfill for ctype functions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-intl-grapheme",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-intl-grapheme/tree/v1.38.1",
+            "version": "v1.38.1",
+            "description": "Symfony polyfill for intl's grapheme_* functions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-intl-idn",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-intl-idn/tree/v1.38.1",
+            "version": "v1.38.1",
+            "description": "Symfony polyfill for intl's idn_to_ascii and idn_to_utf8 functions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-intl-normalizer",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-intl-normalizer/tree/v1.38.0",
+            "version": "v1.38.0",
+            "description": "Symfony polyfill for intl's Normalizer class and related functions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-mbstring",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-mbstring/tree/v1.38.2",
+            "version": "v1.38.2",
+            "description": "Symfony polyfill for the Mbstring extension",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-php80",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-php80/tree/v1.37.0",
+            "version": "v1.37.0",
+            "description": "Symfony polyfill backporting some PHP 8.0+ features to lower PHP versions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-php83",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-php83/tree/v1.38.2",
+            "version": "v1.38.2",
+            "description": "Symfony polyfill backporting some PHP 8.3+ features to lower PHP versions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-php84",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-php84/tree/v1.38.1",
+            "version": "v1.38.1",
+            "description": "Symfony polyfill backporting some PHP 8.4+ features to lower PHP versions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-php85",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-php85/tree/v1.38.1",
+            "version": "v1.38.1",
+            "description": "Symfony polyfill backporting some PHP 8.5+ features to lower PHP versions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-php86",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-php86/tree/v1.38.0",
+            "version": "v1.38.0",
+            "description": "Symfony polyfill backporting some PHP 8.6+ features to lower PHP versions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/polyfill-uuid",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/polyfill-uuid/tree/v1.37.0",
+            "version": "v1.37.0",
+            "description": "Symfony polyfill for uuid functions",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/process",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/process/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Executes commands in sub-processes",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/routing",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/routing/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Maps an HTTP request to a set of configuration variables",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/service-contracts",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/service-contracts/tree/v3.7.0",
+            "version": "v3.7.0",
+            "description": "Generic abstractions related to writing services",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/string",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/string/tree/v7.4.13",
+            "version": "v7.4.13",
+            "description": "Provides an object-oriented API to strings and deals with bytes, UTF-8 code points and grapheme clusters in a unified way",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/translation",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/translation/tree/v7.4.10",
+            "version": "v7.4.10",
+            "description": "Provides tools to internationalize your application",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/translation-contracts",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/translation-contracts/tree/v3.7.0",
+            "version": "v3.7.0",
+            "description": "Generic abstractions related to translation",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/uid",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/uid/tree/v7.4.9",
+            "version": "v7.4.9",
+            "description": "Provides an object-oriented API to generate and represent UIDs",
+            "abandoned": false
+        },
+        {
+            "name": "symfony/var-dumper",
+            "direct-dependency": false,
+            "homepage": "https://symfony.com",
+            "source": "https://github.com/symfony/var-dumper/tree/v7.4.8",
+            "version": "v7.4.8",
+            "description": "Provides mechanisms for walking through any arbitrary PHP variable",
+            "abandoned": false
+        },
+        {
+            "name": "thecodingmachine/safe",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/thecodingmachine/safe/tree/v3.4.0",
+            "version": "v3.4.0",
+            "description": "PHP core functions that throw exceptions instead of returning FALSE on error",
+            "abandoned": false
+        },
+        {
+            "name": "theseer/tokenizer",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/theseer/tokenizer/tree/2.0.1",
+            "version": "2.0.1",
+            "description": "A small library for converting tokenized PHP source code into XML and potentially other formats",
+            "abandoned": false
+        },
+        {
+            "name": "tijsverkoyen/css-to-inline-styles",
+            "direct-dependency": false,
+            "homepage": "https://github.com/tijsverkoyen/CssToInlineStyles",
+            "source": "https://github.com/tijsverkoyen/CssToInlineStyles/tree/v2.4.0",
+            "version": "v2.4.0",
+            "description": "CssToInlineStyles is a class that enables you to convert HTML-pages/files into HTML-pages/files with inline styles. This is very useful when you're sending emails.",
+            "abandoned": false
+        },
+        {
+            "name": "tonysm/globalid-laravel",
+            "direct-dependency": false,
+            "homepage": "https://github.com/tonysm/globalid-laravel",
+            "source": "https://github.com/tonysm/globalid-laravel/tree/1.5.0",
+            "version": "1.5.0",
+            "description": "Identify app models with a URI. Inspired by the globalid gem.",
+            "abandoned": false
+        },
+        {
+            "name": "tonysm/rich-text-laravel",
+            "direct-dependency": true,
+            "homepage": "https://github.com/tonysm/rich-text-laravel",
+            "source": "https://github.com/tonysm/rich-text-laravel/tree/3.11.2",
+            "version": "3.11.2",
+            "description": "Integrates Trix content with Laravel",
+            "abandoned": false
+        },
+        {
+            "name": "vlucas/phpdotenv",
+            "direct-dependency": false,
+            "homepage": null,
+            "source": "https://github.com/vlucas/phpdotenv/tree/v5.6.3",
+            "version": "v5.6.3",
+            "description": "Loads environment variables from `.env` to `getenv()`, `$_ENV` and `$_SERVER` automagically.",
+            "abandoned": false
+        },
+        {
+            "name": "voku/portable-ascii",
+            "direct-dependency": false,
+            "homepage": "https://github.com/voku/portable-ascii",
+            "source": "https://github.com/voku/portable-ascii/tree/2.1.1",
+            "version": "2.1.1",
+            "description": "Portable ASCII library - performance optimized (ascii) string functions for php.",
+            "abandoned": false
+        }
+    ]
+}
